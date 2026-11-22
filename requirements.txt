@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+statsmodels
+pingouin
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+jupyterlab
