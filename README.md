@@ -1,4 +1,4 @@
-# Agroécologie et diversité alimentaire des ménages à Kaolack (Sénégal)
+# Pratiques agroécologiques et diversité alimentaire des ménages à Kaolack (Sénégal)
 
 Code d'analyse du mémoire de Master 2 en Agroécologie et Systèmes Alimentaires Durables (ASAD),
 Université du Sine Saloum El Hadj Ibrahima Niass (USSEIN), Kaolack.
