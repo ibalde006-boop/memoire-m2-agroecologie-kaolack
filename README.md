@@ -46,4 +46,4 @@ Elle peut être communiquée sur demande, après accord de l'auteur et de l'enca
 
 ## Comment citer
 
-Baldé, I. (2026). Agroécologie et diversité alimentaire des ménages à Kaolack : code d'analyse du mémoire de Master 2 ASAD [Code source]. GitHub. https://github.com/ibalde006-boop/memoire-m2-agroecologie-kaolack
+Baldé, I. (2026). Agroécologie et diversité alimentaire des ménages à Kaolack : code d'analyse du mémoire de Master 2 ASAD. GitHub. https://github.com/ibalde006-boop/memoire-m2-agroecologie-kaolack
